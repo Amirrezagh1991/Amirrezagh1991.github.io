@@ -1,13 +1,13 @@
 import React, { useContext } from 'react';
 import { Button } from '@material-ui/core';
-import { NavHashLink as NavLink } from 'react-router-hash-link';
+// import { NavHashLink as NavLink } from 'react-router-hash-link';
 import { makeStyles } from '@material-ui/core/styles';
 
 import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 // import Type from './Type'
-// import { socialsData } from '../../data/socialsData';
+import { socialsData } from '../../data/socialsData';
 
 import {
     FaTwitter,
@@ -75,7 +75,7 @@ function Landing() {
                     className='landing--container-left'
                     style={{ backgroundColor: theme.primary }}
                 >
-                    {/* <div className='lcl--content'>
+                    <div className='lcl--content'>
                         {socialsData.linkedIn && (
                             <a
                                 href={socialsData.linkedIn}
@@ -102,7 +102,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                    </div> */}
+                    </div>
                 </div>
                 <img
                     src={headerData.image}

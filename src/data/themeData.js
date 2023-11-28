@@ -7,6 +7,3 @@ import {
 export const themeData = {
     theme: blueThemeLight
 }
-
-
-// Choose theme from above

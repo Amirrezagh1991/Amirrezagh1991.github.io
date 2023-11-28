@@ -89,6 +89,7 @@
   }
   
   .lcr--content p {
+    margin-left: -10.45rem;
     margin-top: 1.45rem;
     font-weight: 500;
     font-size: 1.15rem;
@@ -96,6 +97,7 @@
   }
   
   .lcr-buttonContainer {
+    margin-left: -10.45rem;
     margin-top: 2rem;
     width: 350px;
     display: flex;
