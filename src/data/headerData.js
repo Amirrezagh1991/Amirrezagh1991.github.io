@@ -20,7 +20,7 @@ export const headerData = {
     //         deleteSpeed: 500,
     //         }}
     //     />,
-    desciption:"Experienced Machine Learning Engineer with a proven track record in developing computer vision and natural language processing (NLP) models. Possesses advanced proficiency in TensorFlow and has earned professional certificates in the platform. An AWS Cer‐ tified Machine Learning – Specialty professional with a deep understanding of cloud computing and its implementation in machine learning. ",
+    desciption:"Experienced Machine Learning Engineer with a proven track record in developing computer vision and natural language processing (NLP) models. Possesses advanced proficiency in TensorFlow and has earned professional certificates in the platform. An AWS Certified Machine Learning - Specialty professional with a deep understanding of cloud computing and its implementation in machine learning. ",
     image: logo,
     resumePdf: resume
 }

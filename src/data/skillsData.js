@@ -5,6 +5,7 @@ export const skillsData = [
     'AWS',
     'Python',
     'C++',
+    'MATLAB',
     'React',
     'Django',
     'Docker',
@@ -13,6 +14,6 @@ export const skillsData = [
     'Figma',
     'Javascript',
     'CSS',
-    'Node JS',
+    'Next JS',
     'Git'
 ]

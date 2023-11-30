@@ -89,7 +89,7 @@
 }
 
 .single--certificate {
-    padding: 2rem;
+    /* padding: 2rem; */
     width: 100%;
     height: 500px;
     position: relative;
@@ -152,11 +152,9 @@
     height: 250px; */
     /* border-radius: 200px; */
     border-radius: 100%;
-
     box-sizing: border-box;
     padding: 30px 40px;
     padding-top: 60px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -173,6 +171,8 @@
     font-weight: 600;
     color: white;
     font-style: italic;
+    align-items: center;
+    justify-content: center;
     /* margin-top: 10px; */
 }
 
