@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b782ca47.css",
-    "main.js": "/static/js/main.dd46d36d.js",
+    "main.css": "/static/css/main.78409d71.css",
+    "main.js": "/static/js/main.fd50624d.js",
     "static/js/787.c320cb44.chunk.js": "/static/js/787.c320cb44.chunk.js",
     "static/media/software_udemy.jpg": "/static/media/software_udemy.03d0f882815b30d34961.jpg",
     "static/media/meta_frontend_certificate.jpg": "/static/media/meta_frontend_certificate.f43325a3bcc0e2277000.jpg",
+    "static/media/Subject.png": "/static/media/Subject.2b815d6b0e1c15643192.png",
     "static/media/tf_certificate.jpg": "/static/media/tf_certificate.72c66376457810a201ed.jpg",
     "static/media/aws_solutions_architect.jpg": "/static/media/aws_solutions_architect.da3c3e5d753dc3469922.jpg",
     "static/media/aws_ml_specialty.jpg": "/static/media/aws_ml_specialty.5a11275c0a462182efd8.jpg",
     "static/media/aws_developer.jpg": "/static/media/aws_developer.214c75565db5354a0380.jpg",
     "static/media/aws_cloud_practitioner.jpg": "/static/media/aws_cloud_practitioner.04b2e248bc8d5dab4ec8.jpg",
-    "static/media/resume.pdf": "/static/media/resume.9006f056689acc98090d.pdf",
-    "static/media/amir_avatar.jpg": "/static/media/amir_avatar.4de6174f0e916050acdf.jpg",
+    "static/media/resume.pdf": "/static/media/resume.a4948dde4bc4e84c9d08.pdf",
     "static/media/deno.svg": "/static/media/deno.96d4a63dc8a39aad6c76b5fb9e7afae8.svg",
     "static/media/postgresql.svg": "/static/media/postgresql.c0d71b7cf608d9c6aa8676fee6925850.svg",
     "static/media/ruby.svg": "/static/media/ruby.34e792ab70448eb69573a8b2df207f74.svg",
@@ -71,6 +71,7 @@
     "static/media/numpy.svg": "/static/media/numpy.5bdfa40b32496733d9705274ccad0224.svg",
     "static/media/adobe-xd.svg": "/static/media/adobe-xd.a6dca99dfbbb55b2341d7b1456ca7dcb.svg",
     "static/media/ionic.svg": "/static/media/ionic.d2050eebeb3b1fdd794eea7ec0f6eda4.svg",
+    "static/media/cuda.svg": "/static/media/cuda.eb2beb65a9f282d3594c12b02fd4bc78.svg",
     "static/media/javascript.svg": "/static/media/javascript.e9360603cdd412c8f9acb925313bc3f3.svg",
     "static/media/illustrator.svg": "/static/media/illustrator.33feff48f7dbd6c03e419a03d365a737.svg",
     "static/media/nginx.svg": "/static/media/nginx.14c0011aadef9bbb0306d1d468f640a0.svg",
@@ -92,12 +93,12 @@
     "static/media/vue.svg": "/static/media/vue.47bdfb5a7a54d8ade2aa4c61d5148668.svg",
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
-    "main.b782ca47.css.map": "/static/css/main.b782ca47.css.map",
-    "main.dd46d36d.js.map": "/static/js/main.dd46d36d.js.map",
+    "main.78409d71.css.map": "/static/css/main.78409d71.css.map",
+    "main.fd50624d.js.map": "/static/js/main.fd50624d.js.map",
     "787.c320cb44.chunk.js.map": "/static/js/787.c320cb44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b782ca47.css",
-    "static/js/main.dd46d36d.js"
+    "static/css/main.78409d71.css",
+    "static/js/main.fd50624d.js"
   ]
 }
