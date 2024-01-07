@@ -1,5 +1,6 @@
 import resume from '../assets/resume.pdf'
-import logo from "../assets/amir_avatar.jpg";
+// import logo from "../assets/amir_avatar.jpg";
+import logo from "../assets/Subject.png";
 import Typewriter from "typewriter-effect";
 
 

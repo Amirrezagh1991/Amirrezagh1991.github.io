@@ -27,6 +27,7 @@ import vitejs from '../assets/svg/skills/vitejs.svg'
 import vuetifyjs from '../assets/svg/skills/vuetifyjs.svg'
 import c from '../assets/svg/skills/c.svg'
 import cplusplus from '../assets/svg/skills/cplusplus.svg'
+import cuda from '../assets/svg/skills/cuda.svg'
 import csharp from '../assets/svg/skills/csharp.svg'
 import dart from '../assets/svg/skills/dart.svg'
 import go from '../assets/svg/skills/go.svg'
@@ -142,6 +143,8 @@ export const skillsImage = (skill) => {
             return cplusplus;
         case 'c#':
             return csharp;
+        case 'cuda':
+            return cuda;
         case 'dart':
             return dart;
         case 'go':

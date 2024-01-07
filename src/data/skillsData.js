@@ -5,6 +5,7 @@ export const skillsData = [
     'AWS',
     'Python',
     'C++',
+    'CUDA',
     'MATLAB',
     'React',
     'Django',
